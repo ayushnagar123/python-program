@@ -1,0 +1,4 @@
+print("hello")
+x=input("enetr name:")
+print("hey "+x)
+input("press<enetr>")
